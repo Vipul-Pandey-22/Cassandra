@@ -1,0 +1,5 @@
+{
+  "clientID": "StssUHchbwIPtSZjbJTJJqfm"
+  "clientSecret": "o,,1zs8cN4D4YPAkkMJsYZZ.TR+Z_L1rAN..RJjpz_ur.+ccv4Ygcdrw7gI+8aHWACtemZj0xUe,WKQQNvWz4dS0_X3_rrbZ4,GDPkgqXtUJvbM14geBKZJe9ZQP9twe"
+  "token": "AstraCS:StssUHchbwIPtSZjbJTJJqfm:54e734926b2ffaa29f83d27a485676dd55c14233d03b968a2c8a9ae11e0551e6"
+}
